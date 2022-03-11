@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "400616422328",
+    "project_id": "word-guesser-5bba2",
+    "storage_bucket": "word-guesser-5bba2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400616422328:android:95133b23511d6d48286d4d",
+        "android_client_info": {
+          "package_name": "com.wordguesser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400616422328-sgc7sju21v853ptuljhq9ahsr88lrsn6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvEfyvcte4NrVwiFU2wxDkkwC-VeoA0rI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "400616422328-sgc7sju21v853ptuljhq9ahsr88lrsn6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "400616422328-130fnegrf3pptrknvgld1sndm0216h9q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.noyola.WordGuesser"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
